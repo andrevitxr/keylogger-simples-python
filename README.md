@@ -15,8 +15,9 @@ Para executar este código, você precisa da biblioteca pynput. Além disso, o c
 
 ## 🚀 Como Usar
 Preparar o Ambiente:
+
 Certifique-se de que você tenha a biblioteca pynput instalada.
-Verifique se o caminho do arquivo onde o log será gravado (fileLog) é válido e que o diretório existe. Exemplo: `C:\Users\Usuário\Desktop\python`
+Verifique no código se o caminho do arquivo onde o log será gravado (fileLog) é válido e que o diretório existe. Exemplo: `C:/Users/Usuário/Desktop/keylogger-simples-python/text.txt`
 
 ## 👨‍💻 Executar o Código:
 Salve o código Python em um arquivo, por exemplo, `main.py`
